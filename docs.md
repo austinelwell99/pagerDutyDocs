@@ -30,4 +30,4 @@ If you need help with this integration, please contact ***help@stackmoxie.com***
 
 # How to Uninstall
 1. Navigate to the **Admin** page in Stack Moxie. Then open the **Notifications & Alerts** tab. 
-2. Click on the eplisis to the right of the PagerDuty logo. Click **Delete PagerDuty Connection** and **Confirm** on the pop-up modal.
+2. Click on the elipsis to the right of the PagerDuty logo. Click **Delete PagerDuty Connection** and **Confirm** on the pop-up modal.
